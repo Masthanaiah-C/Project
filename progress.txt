@@ -1,0 +1,21 @@
+
+day 0:
+	couldnt attend the class
+	so no progess updated
+	[written on 27-08-2020 16:25]
+
+day 1:
+	i have a problem with requirements 
+	but completed all the reading stuff
+	[written on 27-08-2020 16:25]
+
+day 2:
+	after 2 days ,i am able to install all the requirements 
+	i m comforatably executing all the codes given on 26-08-2020 link about "cv2" module
+	i have tested all the codes of it 
+	reading ,writing,resizing(enlarging,reducing,)of coloured image and grey scaled image
+
+	only query is that what is channel?
+	
+	remark:up-to-date completed all works and ready to proceed 
+	[written on 27-08-2020 16:27]
