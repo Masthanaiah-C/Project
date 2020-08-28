@@ -19,3 +19,12 @@ day 2:
 	
 	remark:up-to-date completed all works and ready to proceed 
 	[written on 27-08-2020 16:27]
+day 3:
+	completed cropping with th help from stackoverflow ... and attacked a image (ab.png)
+	and its cropped images in folder "crop"
+	img[y:y+h,x:x+w] helped me in croping
+	
+	remarked:completed the work :)
+	and happy that all code working in vs code
+	
+	query :why though the code executes but still vs code shows error in it PROBLEMS section when i 	opened a terminal 
